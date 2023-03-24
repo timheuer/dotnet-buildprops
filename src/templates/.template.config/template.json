@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tim Heuer",
+    "classifications": [ "Config","Common", "Code", "Web" ],
+    "identity": "TimHeuer.Templates.BuildProps",
+    "name": "Director.Build.Props",
+    "description": "Template for a Directory.Build.Props file",
+    "shortName": "buildprops",
+    "sourceName": "ci_build",
+    "primaryOutputs": [
+        {
+            "path": "Directory.Build.Props"
+        }
+    ],
+    "tags": {
+      "language": "XML",
+      "type": "item"
+    },
+    "defaultName": "Directory.Build.Props"
+  }
