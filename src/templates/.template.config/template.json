@@ -3,7 +3,7 @@
     "author": "Tim Heuer",
     "classifications": [ "Config","Common", "Code", "Web" ],
     "identity": "TimHeuer.Templates.BuildProps",
-    "name": "Director.Build.Props",
+    "name": "Directory.Build.Props",
     "description": "Template for a Directory.Build.Props file",
     "shortName": "buildprops",
     "sourceName": "ci_build",
